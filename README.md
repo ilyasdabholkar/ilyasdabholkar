@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **ilyasdabholkar9@gmail.com**
 
-- ⚡ Fun fact **Chai over Coffee**
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilyasdabholkar&show_icons=true" alt="ilyasdabholkar" /></p>
 
